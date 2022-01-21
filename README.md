@@ -42,7 +42,7 @@ The aims of this project is to predict the living locations of users. We have a 
 |:--------:|:---------:|
 | [data](./data) | This folder contains dumps of dataframe used during this project |
 | [location_prediction](./location_prediction) | This is our main module it contains two files : [data_visualisation](./location_prediction/data_visualisation.py) which contains the functions used for the exploration of the data and [model](./location_prediction/model.py) which contains the functions used to get the prediction |
-| [static](./static) | This folder contains some images and the [report](./static/report).|
+| [static](./static) | This folder contains some images and the [report](./static/report/House living detection.pdf).|
 | [0.Exploratory_Data_Analysis.ipynb](./0.Exploratory_Data_Analysis.ipynb)  | The notebook containing the exploration of the data |
 | [1.Model.ipynb](./1.Model.ipynb) | The notebook containing the approach to create the model and get the prediction  |
 | README.md | This file |
